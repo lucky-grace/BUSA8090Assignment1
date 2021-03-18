@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Q2 write a script called older.sh that returns the oldest file
+# Q1 write a script called older.sh that returns the oldest file
 ### Testing env
 # touch -t 202103081800 foo
 # touch -t 202103081801 goo
